@@ -1,20 +1,8 @@
-.5
-
-**Michael A. Dewar**
-
-.5
-
-508.797.7882
-
-.5
-
+Michael A. Dewar
+================
 Brooklyn, NY
 
-.5
-
 mikedewar@gmail.com
-
-.5
 
 github.com/mikedewar – twitter.com/mikedewar
 
