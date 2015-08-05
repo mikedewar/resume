@@ -151,6 +151,9 @@ the communities around the disciplines I work within.
     Malmo, Sweden, about data science
     http://videos.theconference.se/mike-dewar-big-data-understand-and
 
+-   <span>**talk: The Data Perspective**</span> 2015. A talk I gave at the NYC R Conference, about values
+    https://www.youtube.com/watch?v=Jsg4R9z_Z7M
+
 -   <span>**Meetups**</span> 2011-. I talk semi-regularly at Meetups,
     including the Machine Learning, Open Statistical Programming, and
     Data Community DC meetings.
