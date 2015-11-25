@@ -66,6 +66,12 @@ applications, the dominant online data structure.
     well as work with teams in the mainstream media, most notably The
     Guardian and Scientific American.
 
+**Prototyping Future Media** (New York 2013-) A lot of my work at the New York Times involves contributing to the speculative prototyping work the lab performs. Specifically I have contributed to
+
+-  **editor: http://nytlabs.com/projects/editor.html** NYT R\&D. 2014-2015. A prototype text editor that uses a recurrent neural network to perform semi-automated tagging of sub-sentence blocks of text.
+-  **lazarus: http://nytlabs.com/projects/lazarus.html** NYT R\&D. 2013-2014. A system that uses some basic machine vision techniques to associate a photo from the physical archive with its digital counterpart in the NYT's digital archive.
+- **colony: https://github.com/nytlabs/colony** NYT R\&D. 2014. A microservice messaging framework for NSQ (http://nsq.io/), used to explore what kind of systems are afforded by distributed computation and deployment.
+
 **Spatiotemporal Modelling** (Sheffield, Edinburgh, New York
 2003-2011) - This project began with my PhD Thesis, which was focused on
 learning linear dynamic models from spatiotemporal data. The main focus
@@ -146,6 +152,10 @@ the communities around the disciplines I work within.
 -   <span>**Data Gotham**</span> 2012-2013. I was a co-organizer of Data
     Gotham - a two day event celebrating Data Science in New York.
     http://www.datagotham.com/
+
+-   <span>**talk: Streamtools**</span> 2015. A talk about streamtools
+    I gave at code Neuro 2015.
+    https://www.youtube.com/watch?v=23FgdEHOt0w
 
 -   <span>**talk: Seeing From Above**</span> 2013. A talk I gave in
     Malmo, Sweden, about data science
