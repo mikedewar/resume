@@ -27,6 +27,8 @@ Education
 Employment
 ==========
 
+-  * May 2016 onwards*: **VocaLink Accura**, Director of Data Science.
+
 -   *January 2014 onwards* : **New York Times R&D**, Data Scientist.
 
 -   *May 2011 to December 2013* : **bitly Inc.**, Senior Data Scientist.
