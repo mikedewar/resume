@@ -1,6 +1,6 @@
 Michael A. Dewar
 ================
-Brooklyn, NY
+London, UK
 
 mikedewar@gmail.com
 
