@@ -83,7 +83,7 @@ applications, the dominant online data structure.
     well as work with teams in the mainstream media, most notably The
     Guardian and Scientific American.
 
-**Prototyping Future Media** (New York 2013-) A lot of my work at the New York Times involves contributing to the speculative prototyping work the lab performs. Specifically I have contributed to
+**Prototyping Future Media** (New York 2013-2016) A lot of my work at the New York Times involves contributing to the speculative prototyping work the lab performs. Specifically I have contributed to
 
 -  **editor: http://nytlabs.com/projects/editor.html** NYT R\&D. 2014-2015. A prototype text editor that uses a recurrent neural network to perform semi-automated tagging of sub-sentence blocks of text.
 -  **lazarus: http://nytlabs.com/projects/lazarus.html** NYT R\&D. 2013-2014. A system that uses some basic machine vision techniques to associate a photo from the physical archive with its digital counterpart in the NYT's digital archive.
