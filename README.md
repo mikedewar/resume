@@ -26,8 +26,9 @@ Education
 
 Employment
 ==========
+-   *January 2018 onwards*: **Mastercard, Vocalink Analytics**, Vice President of Data Science.
 
--   *May 2016 onwards*: **VocaLink Accura**, Director of Data Science.
+-   *May 2016 to January 2018*: **VocaLink Accura**, Director of Data Science.
 
 -   *January 2014 to March 2016* : **New York Times R&D**, Data Scientist.
 
