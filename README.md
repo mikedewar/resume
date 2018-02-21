@@ -48,7 +48,21 @@ Employment
 Selected Projects and Outcomes
 ==============================
 
-**Realtime Monitoring of Web-based Systems** (New York 2011 onwards) My
+**Behavioural Modelling using Payments Data** (London 2016 onwards) At Vocalink/Mastercard
+my team and I build products and services based on the UK bank-to-bank payments that
+Vocalink processes. The majority of this work involves behavioural modelling aimed 
+at detecting network wide fraud and money laundering, using techniques from across data science.
+This work is targeted at the development of country-scale products and has resulted in two
+major products: a corporate fraud detection service for the BACS system and an anti-money laundering
+service for the Faster Payments system. 
+
+- **AML Insights: https://www.vocalink.com/downloads-and-media/reports/aml-insights/** Vocalink Analytics.
+  2016-2017. AML Insights detects money laundering over the Faster Payments network. This report
+  details a study my team and I executed in 2016, which we subsequently turned into a working
+  product over the course of 2017 used by the 11 largest banks in the UK, covering well over 90% 
+  of the UK bank to bank payments. This is due to go live in Q2 of 2018.
+
+**Realtime Monitoring of Web-based Systems** (New York 2011 to 2016) My
 work at bitly and The New York Times involves finding and exposing value
 in the data assets collected through the behaviour of large online media
 audiences. This work is highly varied, involving one-off analysis
@@ -148,7 +162,7 @@ Community Engagement
 A large part of my work involves engaging with and sometimes building
 the communities around the disciplines I work within.
 
--   <span>**NYT R&D Data Meeting**</span> 2013-. I run a weekly,
+-   <span>**NYT R&D Data Meeting**</span> 2013-2016. I ran a weekly,
     internal cross-departmental meeting at the NYT designed to explore
     the use of data, in all its forms, inside the NYT.
 
