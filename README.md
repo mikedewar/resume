@@ -105,6 +105,8 @@ set.
 -   <span>**Point process modelling of the Afghan War Diary**</span>,
     Andrew Zammit-Mangion, Michael Dewar, Visakan Kadirkamanathan, and
     Guido Sanguinetti. PNAS 2012.
+    
+    - PNAS 2012 Cozzarelli Prize Winner (Engineering and Applied Sciences)
 
 -   <span>**A Data-Driven Framework for Neural Field Modelling**</span>,
     D. R. Freestone, P. Aram, M. Dewar, K. Scerri, D. B. Grayden, and V.
