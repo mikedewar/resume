@@ -59,9 +59,13 @@ service for the Faster Payments system.
 - **AML Insights: https://www.vocalink.com/downloads-and-media/reports/aml-insights/** Vocalink Analytics.
   2016-2017. AML Insights detects money laundering over the Faster Payments network. This report
   details a study my team and I executed in 2016, which we subsequently turned into a working
-  product over the course of 2017 used by the 11 largest banks in the UK, covering well over 90% 
-  of the UK bank to bank payments. This is due to go live in Q2 of 2018.
+  product over the course of 2017 used by the 10 largest banks in the UK, covering well over 90% 
+  of the UK bank to bank payments. This went live in October 2018.
+- - Rising Star Award - Deloitte Market Gravity Awards
 - **Corporate Fraud Insights: https://www.thetimes.co.uk/article/rbs-system-pushes-back-against-invoice-fraudsters-88h92l5ml** Vocalink Analytics. 2016-. Corporate Fraud Insights detects fraud in the Bacs payment network in the UK. The Times article above describes how Vocalink Analytics, working with RBS, has prevented over £7MM of losses to RBS's customers. My team and I built the behavioural modelling, scoring mechanism and application layer wrapper to deliver this service. 
+- - Banking Security Innovation of the Year - Retail Banker International Awards 2018
+- - Analytics Project of the Year - National Technology Awards 2018
+- - Best Security or Anti-Fraud Development - The UK Card & Payments Award 2019
 
 **Realtime Monitoring of Web-based Systems** (New York 2011 to 2016) My
 work at bitly and The New York Times involves finding and exposing value
