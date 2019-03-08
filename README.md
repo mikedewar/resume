@@ -61,7 +61,7 @@ service for the Faster Payments system.
   details a study my team and I executed in 2016, which we subsequently turned into a working
   product over the course of 2017 used by the 10 largest banks in the UK, covering well over 90% 
   of the UK bank to bank payments. This went live in October 2018.
-  - Rising Star Award - Deloitte Market Gravity Awards
+  - Rising Star Award - Deloitte Market Gravity Awards 2018
 - **Corporate Fraud Insights: https://www.thetimes.co.uk/article/rbs-system-pushes-back-against-invoice-fraudsters-88h92l5ml** Vocalink Analytics. 2016-. Corporate Fraud Insights detects fraud in the Bacs payment network in the UK. The Times article above describes how Vocalink Analytics, working with RBS, has prevented over £7MM of losses to RBS's customers. My team and I built the behavioural modelling, scoring mechanism and application layer wrapper to deliver this service. 
   - Banking Security Innovation of the Year - Retail Banker International Awards 2018
   - Analytics Project of the Year - National Technology Awards 2018
