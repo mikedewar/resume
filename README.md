@@ -57,7 +57,7 @@ major products: a corporate fraud detection service for the BACS system and an a
 service for the Faster Payments system. 
 
 - **AML Insights: https://www.vocalink.com/downloads-and-media/reports/aml-insights/** Vocalink Analytics.
-  2016-2017. AML Insights detects money laundering over the Faster Payments network. This report
+  2016-. AML Insights detects money laundering over the Faster Payments network. This report
   details a study my team and I executed in 2016, which we subsequently turned into a working
   product over the course of 2017 used by the 10 largest banks in the UK, covering well over 90% 
   of the UK bank to bank payments. This went live in October 2018.
