@@ -61,17 +61,17 @@ service for the Faster Payments system, both due to be rolled out in NAM and APA
   product over the course of 2017 used by the 13 largest banks in the UK, covering well over 90% 
   of the UK bank to bank payments. This went live in October 2018.
   - Rising Star Award - Deloitte Market Gravity Awards 2018
-- **Corporate Fraud Insights: https://www.thetimes.co.uk/article/rbs-system-pushes-back-against-invoice-fraudsters-88h92l5ml** Vocalink Analytics. 2016-. Corporate Fraud Insights detects fraud in the Bacs payment network in the UK. The Times article above describes how Vocalink Analytics, working with RBS, has prevented over £7MM of losses to RBS's customers. My team and I built the behavioural modelling, scoring mechanism and application layer wrapper to deliver this service. 
+- **Corporate Fraud Insights: https://www.thetimes.co.uk/article/rbs-system-pushes-back-against-invoice-fraudsters-88h92l5ml** Vocalink Analytics. 2016-. Corporate Fraud Insights detects fraud in the Bacs payment network in the UK. The Times article above describes how Vocalink Analytics, working with RBS, prevented over £7MM of losses to RBS's customers in less than two year's worth of operation. My team and I built the behavioural modelling, scoring mechanism and application layer wrapper to deliver this service. 
   - Banking Security Innovation of the Year - Retail Banker International Awards 2018
   - Analytics Project of the Year - National Technology Awards 2018
   - Best Security or Anti-Fraud Development - The UK Card & Payments Award 2019
 
 **Realtime Monitoring of Web-based Systems** (New York 2011 to 2016) My
-work at bitly and The New York Times involves finding and exposing value
+work at bitly and The New York Times involved finding and exposing value
 in the data assets collected through the behaviour of large online media
-audiences. This work is highly varied, involving one-off analysis
+audiences. This work was highly varied, involving one-off analysis
 projects, product prototyping, infrastructure development, and tool
-building. My work has focused mainly on online stream processing
+building. My work focused mainly on online event stream processing
 applications, the dominant online data structure.
 
 -   **Streamtools: https://github.com/nytlabs/streamtools** NYT R&D.
@@ -87,7 +87,7 @@ applications, the dominant online data structure.
     well as work with teams in the mainstream media, most notably The
     Guardian and Scientific American.
 
-**Prototyping Future Media** (New York 2013-2016) A lot of my work at the New York Times involves contributing to the speculative prototyping work the lab performs. Specifically I have contributed to
+**Prototyping Future Media** (New York 2013-2016) A lot of my work at the New York Times involved contributing to the speculative prototyping work the lab performed. Specifically I have contributed to
 
 -  **editor: http://nytlabs.com/projects/editor.html** NYT R\&D. 2014-2015. A prototype text editor that uses a recurrent neural network to perform semi-automated tagging of sub-sentence blocks of text.
 -  **lazarus: http://nytlabs.com/projects/lazarus.html** NYT R\&D. 2013-2014. A system that uses some basic machine vision techniques to associate a photo from the physical archive with its digital counterpart in the NYT's digital archive.
@@ -96,7 +96,7 @@ applications, the dominant online data structure.
 **Spatiotemporal Modelling** (Sheffield, Edinburgh, New York
 2003-2011) - This project began with my PhD Thesis, which was focused on
 learning linear dynamic models from spatiotemporal data. The main focus
-of this work is learning models which are interpretable in terms of the
+of this work was learning models which are interpretable in terms of the
 underlying system. My work has been followed up on in two main projects:
 neural field modelling and an analysis of the Afghanistan Wikileaks data
 set.
@@ -135,7 +135,7 @@ set.
 
 **Modelling Behaviour** (Edinburgh and New York 2008 - 2014) - This
 work, the Edinburgh portion of which resulted in a successful startup
-called Actual Analytics, seeks to automate routine animal behavioural
+called Actual Analytics, sought to automate routine animal behavioural
 analysis from collected video data. I continued the theoretical aspects
 of this work at Columbia University, and scaled up to large online
 audiences at The New York Times.
