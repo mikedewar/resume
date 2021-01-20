@@ -9,26 +9,25 @@ github.com/mikedewar – twitter.com/mikedewar
 Profile
 =======
 
-I build tools designed to enable the design of data-rich systems in
-novel situations. My focus, and the focus that I encourage in others, is
-to use algorithms that can be clearly understood and interpreted in the
-organisations that deploy them.
+I build products based on algorithms, powered by data. I love bringing advanced techniques
+from data science together with mission-driven experts in order to build next generation
+products in novel domains. 
 
 Education
 =========
 
--   *The University of Sheffield, UK*: PhD Thesis: <span>**‘A Framework
-    for Modelling Dynamic Spatiotemporal Systems’**</span>. Awarded June
+-   *The University of Sheffield, UK*: PhD Thesis: **‘A Framework
+    for Modelling Dynamic Spatiotemporal Systems’**. Awarded June
     2007.
 
--   *The University of Sheffield, UK*: <span>**1st Class MEng**</span>
+-   *The University of Sheffield, UK*: **1st Class MEng**
     in Control Systems Engineering. Awarded August 2002.
 
 Employment
 ==========
--   *January 2018 onwards*: **Mastercard, Vocalink Analytics**, Vice President of Data Science.
+-   *January 2018 onwards*: **Mastercard, Cyber & Intelligence**, Vice President of Data Science.
 
--   *May 2016 to January 2018*: **VocaLink Accura**, Director of Data Science.
+-   *May 2016 to January 2018*: **VocaLink**, Director of Data Science.
 
 -   *January 2014 to March 2016* : **New York Times R&D**, Data Scientist.
 
@@ -49,17 +48,17 @@ Selected Projects and Outcomes
 ==============================
 
 **Behavioural Modelling using Payments Data** (London 2016 onwards) At Vocalink/Mastercard
-my team and I build products and services based on the UK bank-to-bank payments that
-Vocalink processes. The majority of this work involves behavioural modelling aimed 
+my team and I build products and services based on the bank-to-bank (ACH) payments that
+Mastercard processes. The majority of this work involves behavioural modelling aimed 
 at detecting network wide fraud and money laundering, using techniques from across data science.
 This work is targeted at the development of country-scale products and has resulted in two
 major products: a corporate fraud detection service for the BACS system and an anti-money laundering
-service for the Faster Payments system. 
+service for the Faster Payments system, both due to be rolled out in NAM and APAC.
 
-- **AML Insights: https://www.vocalink.com/downloads-and-media/reports/aml-insights/** Vocalink Analytics.
-  2016-. AML Insights detects money laundering over the Faster Payments network. This report
+- **Trace Financial Crime: https://www.vocalink.com/news-insights/case-studies/case-study-mits/** Financial Crime Solutions, Mastercard.
+  2016-. Trace detects money laundering over instant payments networks. This report
   details a study my team and I executed in 2016, which we subsequently turned into a working
-  product over the course of 2017 used by the 10 largest banks in the UK, covering well over 90% 
+  product over the course of 2017 used by the 13 largest banks in the UK, covering well over 90% 
   of the UK bank to bank payments. This went live in October 2018.
   - Rising Star Award - Deloitte Market Gravity Awards 2018
 - **Corporate Fraud Insights: https://www.thetimes.co.uk/article/rbs-system-pushes-back-against-invoice-fraudsters-88h92l5ml** Vocalink Analytics. 2016-. Corporate Fraud Insights detects fraud in the Bacs payment network in the UK. The Times article above describes how Vocalink Analytics, working with RBS, has prevented over £7MM of losses to RBS's customers. My team and I built the behavioural modelling, scoring mechanism and application layer wrapper to deliver this service. 
