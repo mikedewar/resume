@@ -1,9 +1,13 @@
 ---
 documentclass: res
 fontfamily: palatino
-title: Michael A. Dewar
 fontsize: 11pt
 ---
+
+
+# Michael A. Dewar
+
+&nbsp;
 
 London, UK
 
@@ -52,6 +56,8 @@ Employment
 
 Selected Projects and Outcomes
 ==============================
+
+&nbsp;
 
 **Behavioural Modelling using Payments Data** (London 2016 onwards) At Vocalink/Mastercard
 my team and I build products and services based on the bank-to-bank (ACH) payments that
@@ -140,6 +146,8 @@ set.
 -   **A Canonical Space-Time State Space Model: State and
     Parameter Estimation**, Dewar M.A. and Kadirkamanathan V.
     IEEE Transactions on Signal Processing. 2007. 55(10) pp.4862-4870.
+
+\newpage
 
 **Modelling Behaviour** (Edinburgh and New York 2008 - 2014) - This
 work, the Edinburgh portion of which resulted in a successful startup
