@@ -1,5 +1,10 @@
-Michael A. Dewar
-================
+---
+documentclass: res
+fontfamily: palatino
+title: Michael A. Dewar
+fontsize: 11pt
+---
+
 London, UK
 
 mikedewar@gmail.com
@@ -17,8 +22,7 @@ Education
 =========
 
 -   *The University of Sheffield, UK*: PhD Thesis: **‘A Framework
-    for Modelling Dynamic Spatiotemporal Systems’**. Awarded June
-    2007.
+    for Modelling Dynamic Spatiotemporal Systems’**. Awarded June 2007.
 
 -   *The University of Sheffield, UK*: **1st Class MEng**
     in Control Systems Engineering. Awarded August 2002.
@@ -43,6 +47,8 @@ Employment
 -   *May 2007 to June 2008* : **University of Sheffield**, Postdoctoral
     Researcher, Department of Automatic Control & Systems Engineering
     and the Department of Computer Science.
+
+\newpage
 
 Selected Projects and Outcomes
 ==============================
@@ -86,6 +92,8 @@ applications, the dominant online data structure.
     team. My role was been to do the analysis for a number of posts, as
     well as work with teams in the mainstream media, most notably The
     Guardian and Scientific American.
+
+\newpage
 
 **Prototyping Future Media** (New York 2013-2016) A lot of my work at the New York Times involved contributing to the speculative prototyping work the lab performed. Specifically I contributed to
 
