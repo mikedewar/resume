@@ -4,10 +4,7 @@ fontfamily: palatino
 fontsize: 11pt
 ---
 
-
 # Michael A. Dewar
-
-&nbsp;
 
 London, UK
 
