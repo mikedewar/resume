@@ -52,8 +52,6 @@ Employment
     Researcher, Department of Automatic Control & Systems Engineering
     and the Department of Computer Science.
 
-\newpage
-
 Selected Projects and Outcomes
 ==============================
 
