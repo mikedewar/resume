@@ -183,6 +183,10 @@ Community Engagement
 A large part of my work involves engaging with and sometimes building
 the communities around the disciplines I work within.
 
+-   **AI Public Private Forum** 2020-2021. I attended the AI Public Private
+    Forum, run by the Financial Conduct Authority and the Bank of England.
+    https://www.bankofengland.co.uk/research/fintech/ai-public-private-forum
+    
 -   **NYT R&D Data Meeting** 2013-2016. I ran a weekly,
     internal cross-departmental meeting at the NYT designed to explore
     the use of data, in all its forms, inside the NYT.
