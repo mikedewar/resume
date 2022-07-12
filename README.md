@@ -55,8 +55,6 @@ Employment
 Selected Projects and Outcomes
 ==============================
 
-&nbsp;
-
 **Behavioural Modelling using Payments Data** (London 2016 onwards) At Vocalink/Mastercard
 my team and I build products and services based on the bank-to-bank (ACH) payments that
 Mastercard processes. The majority of this work involves behavioural modelling aimed 
@@ -96,8 +94,6 @@ applications, the dominant online data structure.
     team. My role was been to do the analysis for a number of posts, as
     well as work with teams in the mainstream media, most notably The
     Guardian and Scientific American.
-
-\newpage
 
 **Prototyping Future Media** (New York 2013-2016) A lot of my work at the New York Times involved contributing to the speculative prototyping work the lab performed. Specifically I contributed to
 
@@ -144,8 +140,6 @@ set.
 -   **A Canonical Space-Time State Space Model: State and
     Parameter Estimation**, Dewar M.A. and Kadirkamanathan V.
     IEEE Transactions on Signal Processing. 2007. 55(10) pp.4862-4870.
-
-\newpage
 
 **Modelling Behaviour** (Edinburgh and New York 2008 - 2014) - This
 work, the Edinburgh portion of which resulted in a successful startup
