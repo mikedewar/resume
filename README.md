@@ -1,9 +1,3 @@
----
-documentclass: res
-fontfamily: palatino
-fontsize: 11pt
----
-
 # Michael A. Dewar
 
 London, UK
