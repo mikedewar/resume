@@ -9,7 +9,7 @@ github.com/mikedewar – twitter.com/mikedewar
 Profile
 =======
 
-I build products based on algorithms, powered by data. I love bringing advanced techniques
+I build products based on algorithms, powered by data. I bring advanced techniques
 from data science together with mission-driven experts in order to build next generation
 products in novel domains. 
 
