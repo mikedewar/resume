@@ -56,7 +56,7 @@ service for the Faster Payments system, both due to be rolled out in NAM and APA
 
 - **Consumer Fraud Risk: https://www.bloomberg.com/news/articles/2023-07-05/mastercard-s-ai-tool-helps-nine-british-banks-tackle-scams** Financial Crime Solutions, Mastercard.
   2022-. Consumer Fraud Risk provides a pre-payment API to detect scams on bank to bank payments. The Bloomberg article above describes
-  the product my team and I developed, built and deployed in the years up to 2022. Its used by the major UK banks, with TSB estimating it
+  the product my team and I developed, built and deployed in the years up to 2022. It is used by the major UK banks, with TSB estimating the service
   will save the UK economy £100M per year.
 - **Trace Financial Crime: https://www.vocalink.com/news-insights/case-studies/case-study-mits/** Financial Crime Solutions, Mastercard.
   2016-. Trace detects money laundering over instant payments networks. This report
