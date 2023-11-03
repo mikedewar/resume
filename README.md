@@ -49,12 +49,15 @@ Selected Projects and Outcomes
 ==============================
 
 **Behavioural Modelling using Payments Data** (London 2016 onwards) At Vocalink/Mastercard
-my team and I build products and services based on the bank-to-bank (ACH) payments that
-Mastercard processes. The majority of this work involves behavioural modelling aimed 
+my team and I built products and services based on the bank-to-bank (ACH) payments that
+Mastercard processes. The majority of this work involved behavioural modelling aimed 
 at detecting network wide fraud and money laundering, using techniques from across data science.
-This work is targeted at the development of country-scale products and has resulted in two
-major products: a corporate fraud detection service for the BACS system and an anti-money laundering
-service for the Faster Payments system, both due to be rolled out in NAM and APAC.
+This work is targeted at the development of country-scale products and has resulted in three
+major products: a consumer scam detection service running over real time payments systems, a corporate 
+fraud detection service for batch payment systems, and a money mule focused anti-money laundering
+service for the real time payments systems. Over this period, I grew the team from 5 people to 35 
+at it is peak; it has since been split apart and re-formed in Mastercard's standard org structure, where the
+new separate teams continue to receive investment. 
 
 - **Consumer Fraud Risk: https://www.bloomberg.com/news/articles/2023-07-05/mastercard-s-ai-tool-helps-nine-british-banks-tackle-scams** Financial Crime Solutions, Mastercard.
   2022-. Consumer Fraud Risk provides a pre-payment API to detect scams on bank to bank payments. The Bloomberg article above describes
