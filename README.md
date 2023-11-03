@@ -43,6 +43,8 @@ Employment
     Researcher, Department of Automatic Control & Systems Engineering
     and the Department of Computer Science.
 
+\newpage
+
 Selected Projects and Outcomes
 ==============================
 
@@ -163,6 +165,8 @@ audiences at The New York Times.
 -   **Classifying *Drosophila* Courtship**, Dewar M.A.
     Invited talk at Virtual Fly Brain - Behaviour Workshop. September
     21-23, 2009 at Magdalen College, Oxford.
+
+\newpage
 
 Community Engagement
 ====================
