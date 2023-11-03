@@ -88,7 +88,7 @@ applications, the dominant online data structure.
     designers build algorithms that work directly on a stream of data,
     rather than performing offline processing at a later date.
 
--   **Bitly Science: http://bitlyscience.github.com** Bitly Science
+-   **Bitly Science: https://bitlyscience.github.io/** Bitly Science
     Team. 2011-2012. This website showcases a number of blog posts and
     magazine articles created using analysis from the bitly science
     team. My role was been to do the analysis for a number of posts, as
