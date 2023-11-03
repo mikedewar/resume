@@ -4,7 +4,7 @@ London, UK
 
 mikedewar@gmail.com
 
-github.com/mikedewar – twitter.com/mikedewar
+github.com/mikedewar
 
 Profile
 =======
