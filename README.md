@@ -64,6 +64,7 @@ new separate teams continue to receive investment.
   the product my team and I developed, built and deployed in the years up to 2022. It is used by the major UK banks, with TSB estimating the service
   will save the UK economy £100M per year.
   - Consumer Anti-Fraud Solution of the Year - Payments Awards 2023
+  - Best Security or Anti-Fraud Development - The Card and Payments Awards 2024
 - **Trace Financial Crime: https://www.vocalink.com/news-insights/case-studies/case-study-mits/** Financial Crime Solutions, Mastercard.
   2016-. Trace detects money laundering over instant payments networks. This report
   details a study my team and I executed in 2016, which we subsequently turned into a working
