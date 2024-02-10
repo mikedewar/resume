@@ -6,6 +6,13 @@
 \usepackage{libertine}
 \renewcommand{\familydefault}{\sfdefault}
 
+\usepackage{inconsolata}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+% \usepackage[moderate]{savetrees}
+
 \begin{document}
 
 \name{Dr Michael A. Dewar}
@@ -37,19 +44,40 @@ For a full portfolio, please see \href{https://mikedewar.github.io}{mikedewar.gi
   \emph{January 2018 onwards}: \textbf{Mastercard, Cyber \&
   Intelligence}, Vice President of Data Science.
   \begin{itemize}
-	\item Lead a team
-	\item Did some M\&A
-	\item Lots of coffee
+  \tightlist
+	\item Lead a cross functional team of data scientists, developers, and devops engineers, growing to 35 at its peak.
+	\item Promoted a cloud-native, prototype driven approach to design and development, tightly integrating data science and software engineering into product focused teams.
+	\item Engaged in both strategy focused work and community outreach around API orchestration, Privacy Enhancing Technology, and AI.
+	\item Designed synergy products as part of Mastercard's inorganic growth activities.
+	\item New technologies: Homomorphic Encryption, Federated Machine Learning.
   \end{itemize}
 
-  \emph{May 2016 to January 2018}: \textbf{Vocalink}, Director of Data
-  Science.
+  \emph{May 2016 to January 2018}: \textbf{Vocalink}, Director of Data Science.
+  \begin{itemize}
+  \tightlist
+	\item Lead a Data Science and Analytics team, innovating in the space of payments data driven products, focusing primarily on business intelligence and economic crime focused products.
+	\item Introduced the Data Science discipline to Vocalink, and lobbied for the modernisation of the technology stack and engineering process.
+	\item Managed the team through the acquisition of Vocalink by Mastercard.
+	\item Technologies: Kafka, Teradata, \texttt{xgboost}
+  \end{itemize}
 
   \emph{January 2014 to March 2016} : \textbf{New York Times R\&D}, Data
   Scientist.
+  \begin{itemize}
+  \tightlist
+	  \item Provided Data Science capability to the R\&D Lab as one of five creative technologists. 
+	\item Explored the impact of AI and Data Science on the future of the New York Times.
+	\item High client engagement, leading tours through the lab for many different kinds of stakeholders and visitors to the New York Times to discuss the future of news.
+	\item Technologies: Kubernetes, GCP, \texttt{word2vec}, \texttt{openCV}, ELK
+  \end{itemize}
 
-  \emph{May 2011 to December 2013} : \textbf{bitly Inc.}, Senior Data
-  Scientist.
+  \emph{May 2011 to December 2013} : \textbf{bitly Inc.}, Senior Data Scientist.
+  \begin{itemize}
+  \tightlist
+	\item Used bit.ly data to explore new product opportunities
+	\item Demonstrated the early "data science hypothesis" that data collected as a by-product could be highly valuable both internally and externally
+	\item Technologies: Docker, Golang, Python, Javascript, Redis, AWS, \texttt{d3.js}, \texttt{sckit-learn}, \texttt{pandas}, \texttt{git}
+  \end{itemize}
 
   \emph{January 2010 to April 2011} : \textbf{Columbia University},
   Postdoctoral Researcher, Department of Applied Physics and Applied
@@ -65,8 +93,9 @@ For a full portfolio, please see \href{https://mikedewar.github.io}{mikedewar.gi
 
 \section{Selected Projects - Mastercard}
 
-	\href{https://www.bloomberg.com/news/articles/2023-07-05/mastercard-s-ai-tool-helps-nine-british-banks-tackle-scams}{\textbf{Consumer Fraud Risk}} Financial Crime Solutions, \textbf{Mastercard} - provides a pre-payment API to detect scams on bank to bank payments. My team and I developed, built, deployed and operated the application layer of this service. It is used by major UK banks, with TSB estimating the service will save the UK economy £100M per year.
+	\href{https://www.bloomberg.com/news/articles/2023-07-05/mastercard-s-ai-tool-helps-nine-british-banks-tackle-scams}{\textbf{Consumer Fraud Risk}} Financial Crime Solutions, \textbf{Mastercard} - provides a pre-payment API to detect scams on bank to bank payments. My team and I developed, built, deployed and operated the application layer of this service. It is used by major UK banks, with TSB estimating the service will save the UK economy £100MM per year.
   \begin{itemize}
+  \tightlist
   \item
     Consumer Anti-Fraud Solution of the Year - Payments Awards 2023
   \item
@@ -76,12 +105,14 @@ For a full portfolio, please see \href{https://mikedewar.github.io}{mikedewar.gi
 	\href{https://www.vocalink.com/news-insights/case-studies/case-study-mits/}{\textbf{Trace Financial Crime}} Financial Crime Solutions, \textbf{Mastercard} - detects money laundering over instant payments networks. This service is used by the 13 largest banks in the UK, covering well over 90\% of the UK faster payments participants. My team and I executed the techincal design, build, deployment, and subsequent operation of this service.
 
   \begin{itemize}
+  \tightlist
   \item
     Rising Star Award - Deloitte Market Gravity Awards 2018
   \end{itemize}
 	\href{https://www.thetimes.co.uk/article/rbs-system-pushes-back-against-invoice-fraudsters-88h92l5ml}{\textbf{Corporate Fraud Insights}} Vocalink Analytics, \textbf{Mastercard} - detects fraud in the Bacs payment network in the UK. Working with RBS, this service prevented over £7MM of losses to RBS’s customers in less than two years. My team and I built the behavioural modelling, scoring mechanism and application layer to deliver this service. 
 
   \begin{itemize}
+  \tightlist
   \item
     Banking Security Innovation of the Year - Retail Banker
     International Awards 2018
@@ -92,83 +123,40 @@ For a full portfolio, please see \href{https://mikedewar.github.io}{mikedewar.gi
     Award 2019
   \end{itemize}
 \section{Selected Projects - New York Times}
-\begin{itemize}
-\item
 	\href{https://github.com/nytlabs/streamtools}{\textbf{streamtools}} R\&D, \textbf{New York Times}. A graphical toolkit for working with live streams of data.
-\item
+
 	\href{http://nytlabs.com/projects/editor.html}{\textbf{editor}} R\&D, \textbf{New York Times}. A prototype text editor that uses a recurrent neural network and word level embeddings to perform semi-automated tagging of sub-sentence blocks of text
-\item
+
 	\href{http://nytlabs.com/projects/lazarus.html}{\textbf{lazarus}} R\&D, \textbf{New York Times}. An application of machine vision techniques to associate a photo from the physical archive with its digital counterpart in the NYT's digital archive.
-\end{itemize}
 
 \section{Community Engagement}
 
-\begin{itemize}
-\item
 	\href{https://www.bankofengland.co.uk/research/fintech/ai-public-private-forum}{\textbf{AI Public Private Forum}} 2020-2021. I attended the AI Public
   Private Forum, run by the Financial Conduct Authority and the Bank of
   England.
-\item
+
   \textbf{NYT R\&D Data Meeting} 2013-2016. I ran a weekly, internal
   cross-departmental meeting at the NYT designed to explore the use of
   data, in all its forms, inside the NYT.
-\item
+
   \textbf{Data Gotham} 2012-2013. I was a co-organizer of Data Gotham -
   a two day event celebrating Data Science in New York.
-\item
-	\href{https://www.youtube.com/watch?v=23FgdEHOt0w}{\textbf{talk: Streamtools}} 2015. A talk  I gave at code Neuro, about streamtools.
-\item
-	\href{http://videos.theconference.se/mike-dewar-big-data-understand-and}{\textbf{talk: Seeing From Above}} 2013. A talk I gave in Malmo, Sweden, about data science.
-\item
-	\href{https://www.youtube.com/watch?v=Jsg4R9z\_Z7M}{\textbf{talk: The Data Perspective}} 2015. A talk I gave at the NYC R Conference, about values 
-\item
+
+  Recorded Talks:
+  \begin{itemize}
+  \tightlist
+	  \item \href{https://www.youtube.com/watch?v=23FgdEHOt0w}{\textbf{Streamtools}} 2015. A talk  I gave at code Neuro, about streamtools.
+
+	  \item \href{https://www.youtube.com/watch?v=Jsg4R9z\_Z7M}{\textbf{The Data Perspective}} 2015. A talk I gave at the NYC R Conference, about values 
+
+	  \item \href{http://videos.theconference.se/mike-dewar-big-data-understand-and}{\textbf{Seeing From Above}} 2013. A talk I gave in Malmo, Sweden, about data science.
+
+  \end{itemize}
+
   Author of \textbf{Getting Started with D3}, Dewar M.A., O'Reilly,
   2012.
-\end{itemize}
 
-\section{Selected Academic Papers}
-
-\begin{itemize}
-\item
-  \textbf{Point process modelling of the Afghan War Diary}, Andrew
-  Zammit-Mangion, Michael Dewar, Visakan Kadirkamanathan, and Guido
-  Sanguinetti. PNAS 2012.
-
-  \begin{itemize}
-  \item
-	  \href{https://www.pnas.org/post/update/2012-cozzarelli-prize-recipients}{PNAS 2012 Cozzarelli Prize Winner} (Engineering and Applied Sciences)
-  \end{itemize}
-\item
-  \textbf{Inference in Hidden Markov Models with Explicit State Duration
-  Distributions}, M. Dewar and C. Wiggins and F. Wood. IEEE Signal
-  Processing Letters, 2012.
-\item
-  \textbf{Parameter Estimation and Inference for Stochastic
-  Reaction-Diffusion Systems: application to morphogenesis in D.
-  melanogaster}, Dewar M.A., Kadirkamanathan, V., Opper, M. and
-  Sanguinetti, G. BMC Systems Biology 2010, 4:21.
-\item
-  \textbf{Classifying \emph{Drosophila} Courtship}, Dewar M.A. Invited
-  talk at Virtual Fly Brain - Behaviour Workshop. September 21-23, 2009
-  at Magdalen College, Oxford.
-\item
-  \textbf{Estimation and Model Selection of an IDE based Spatiotemporal
-  Model}, Scerri K, Dewar M.A.~and Kadirkamanathan V. IEEE Transactions
-  on Signal Processing. 2009. 57(2) pp.482-492.
-\item
-  \textbf{Data Driven Spatiotemporal Modelling Using the
-  Integro-Difference Equation}, Dewar M.A., Scerri K. and
-  Kadirkamanathan V. IEEE Transactions on Signal Processing. 2009. 57(1)
-  pp.83-91.
-\item
-  \textbf{Classification of Animal Behaviour Using Dynamic Models of
-  Movement}, M.A.~Dewar, J.A. Heward, T.C. Lukins and J.D. Armstrong.
-  NIPS Workshop: ``Stochastic Models of Behaviour'', 2008, Whistler.
-\item
-  \textbf{A Canonical Space-Time State Space Model: State and Parameter
-  Estimation}, Dewar M.A.~and Kadirkamanathan V. IEEE Transactions on
-  Signal Processing. 2007. 55(10) pp.4862-4870.
-\end{itemize}
+  Full list of academic publications available at \href{https://mikedewar.github.io}{mikedewar.github.io}.
 
 \end{resume}
 
